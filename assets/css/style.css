@@ -127,7 +127,6 @@ img {
     font-size: 0.9rem;
     background-color: #fff;
     border-radius: 1rem;
-    backdrop-filter: blur(16px);
     padding: 0 5px;
     color: #151515;
     transform: translate(-50%, -50%);
@@ -152,7 +151,6 @@ img {
     font-size: 0.9rem;
     background-color: #fff;
     border-radius: 1rem;
-    backdrop-filter: blur(16px);
     padding: 0 5px;
     color: #151515;
     transform: translate(-50%, -50%);
@@ -270,7 +268,6 @@ img {
         font-size: 0.9rem;
         background-color: #fff;
         border-radius: 1rem;
-        backdrop-filter: blur(16px);
         padding: 0 5px;
         color: #151515;
         transition: 0.3s all;
@@ -284,7 +281,6 @@ img {
         background-color: #fff;
         padding: 0px 30px 0px 3px;
         border-radius: 1rem;
-        backdrop-filter: blur(16px);
         padding: 0 5px;
         color: #151515;
         transition: 0.3s all;
