@@ -11,7 +11,7 @@
     --body-font: 'Poppins', sans-serif;
     --h1-font-size: 2rem;
     --normal-font-size: 1rem;
-    --small-font-size: .813rem;
+    --small-font-size: .850rem;
 }
 
 * {
@@ -173,6 +173,8 @@ img {
 .login__check {
     margin-bottom: 1rem;
     font-size: var(--small-font-size);
+    text-shadow: 2px 2px 2px #000000;
+    letter-spacing: 0.84px;
 }
 
 .login__check-box {
@@ -213,6 +215,8 @@ img {
 .login__register {
     font-size: var(--small-font-size);
     text-align: center;
+    text-shadow: 2px 2px 2px #000000;
+    letter-spacing: 0.84px;
 }
 
 .login__register a {
@@ -256,7 +260,7 @@ img {
         padding-top: 10px;
         font-size: 16px;
         position: absolute;
-        top: 51%;
+        top: 51.5%;
         left: 26%;
         transition: 0.3s all;
     }
