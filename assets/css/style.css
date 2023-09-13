@@ -63,6 +63,7 @@ img {
     color: var(--white-color);
     border-radius: 1rem;
     backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(20px);
 }
 
 .login__title {
