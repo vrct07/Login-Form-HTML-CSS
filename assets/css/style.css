@@ -215,8 +215,8 @@ img {
 .login__register {
     font-size: var(--small-font-size);
     text-align: center;
-    text-shadow: 2px 2px 2px #000000;
-    letter-spacing: 0.84px;
+    text-shadow: 1px 1px 1px #151515;
+    letter-spacing: 0.85px;
 }
 
 .login__register a {
